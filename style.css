@@ -1,12 +1,13 @@
 body
 {
     font-family: 'Lato';
+    
 }
 
 .section1
 {
     background-color: 293F50;
-    width: 1530px;
+    width: 888px;
     height: 556px;
     position: relative;
     right: 7px;
